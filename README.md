@@ -14,8 +14,6 @@ Alongside corporate or team-based projects, I work as a **freelance developer**�
 
 ---
 
-### 🛠️ Moje Technologie (Tech Stack)
-
 ### 🛠️ Tech Stack
 
 #### **Backend & Desktop (.NET)**
@@ -28,7 +26,7 @@ Alongside corporate or team-based projects, I work as a **freelance developer**�
 * **Frontend**: HTML5 | CSS3 / Sass | Tailwind CSS
 
 #### **Tools & DevOps**
-* Git / GitHub | Docker | Swagger | IIS / VPS Hosting | Github Actions / Jenkins | Nginx | Kubernetes
+* Git / GitHub | Docker | Swagger | IIS / VPS Hosting | CI/CD - Github Actions / Jenkins | Nginx | Kubernetes
 
 ---
 
