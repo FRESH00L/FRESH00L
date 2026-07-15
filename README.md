@@ -21,9 +21,9 @@ Alongside corporate or team-based projects, I work as a **freelance developer**â
 * **Desktop Development**: WinUI 3 | WPF
 * **Databases & ORMs**: SQL Server | Entity Framework Core | SSMS
 
-#### **Web Development (JavaScript/TypeScript)**
-* **MERN Stack**: MongoDB | Express.js | React.js | Node.js
-* **Frontend**: HTML5 | CSS3 / Sass | Tailwind CSS
+#### **Web Development**
+* **MERN Stack**: MongoDB | Express.js | React.js | Node.js 
+* **Frontend**: HTML5 | CSS3 / Sass | Tailwind CSS | JavaScript | React
 
 #### **Tools & DevOps**
 * Git / GitHub | Docker | Swagger | IIS / VPS Hosting | CI/CD - Github Actions / Jenkins | Nginx | Kubernetes
